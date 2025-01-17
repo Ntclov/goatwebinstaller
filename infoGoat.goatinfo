@@ -1,0 +1,5 @@
+goatVer= 1.1
+goatVerType= canary
+goatMinpyver= 3.8
+goatMinwin= 7
+goatMinSP(onlywin7)= SP1
